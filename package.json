@@ -1,0 +1,12 @@
+{
+  "name": "format-td.js",
+  "version": "1.0.1",
+  "description": "Um modulo feito para formatar hora ou dia",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
